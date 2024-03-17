@@ -1,4 +1,3 @@
-// FormPage.js
 const BasePage = require('./BasePage');
 const utils = require('./testUtils');
 

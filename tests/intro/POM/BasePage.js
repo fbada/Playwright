@@ -1,4 +1,3 @@
-// BasePage.js
 class BasePage {
     constructor(page) {
         this.page = page;
