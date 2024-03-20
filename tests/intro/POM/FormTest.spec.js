@@ -1,7 +1,7 @@
 const { test, expect } = require('@playwright/test');
 const FormPage = require('./FormPage');
 
-test.only('Form submission with Integrated FormPage Methods', async ({ page }) => {
+test('Form submission with Integrated FormPage Methods', async ({ page }) => {
     const formPage = new FormPage(page);
     
     await formPage.navigate("/form");
