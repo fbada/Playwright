@@ -42,6 +42,7 @@ class guruContextPage extends BasePage{
     
             console.log(`Hovered over image at index ${index}. Expected text: "${expectedText}". Found text: "${actualText.trim()}".`);
             return true;
+            
         } catch (error) {
             console.error(`Error occurred while hovering and confirming text: ${error}`);
             return false;

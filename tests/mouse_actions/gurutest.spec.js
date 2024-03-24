@@ -15,7 +15,6 @@ test.beforeEach(async ({ page }) => {
         await guruPage.doubleclick(guruPage.locators.contextClick);
         //confirm appearance of the alert
         await guruPage.listenAlertConfirm("You double clicked me.. Thank You..");
-      
     });
 
 

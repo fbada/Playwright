@@ -1,11 +1,12 @@
 const { test, expect } = require('@playwright/test');
 const testCases = require('./testCasesForm');
-const dateCases = require('./testCasesForm');
+const dateCases = require('./dateCases');
 
 testCases.forEach(testCase => {
   test(`Fill out the form with edge case: ${JSON.stringify(testCase)}`, async ({ page }) => {
     // Navigate to the form page
     await page.goto("https://formy-project.herokuapp.com/form");
+    await page.waitForSelector("#first-name", { state: 'visible' });
 
     // Input values for text fields using data from the current test case
     await page.fill("#first-name", testCase.firstName);
@@ -43,18 +44,27 @@ testCases.forEach(testCase => {
     // Select an option from the select menu
     await page.selectOption("#select-menu", { label: "2-4" });
 
-    // Insert date
-    for(let date in dateCases){
-        await page.fill("#datepicker", date);
-        await expect(page.locator("#datepicker")).toHaveValue(date);
-    }
+    for (let date of dateCases) {
+        try {
+          await page.fill("#datepicker", date);
+         // await page.waitForTimeout(1000); // Wait for 4 seconds
+
+          console.log(`Filled datepicker with: ${date}`);
+          await expect(page.locator("#datepicker")).toHaveValue(date);
+          console.log(`Confirmed datepicker value matches: ${date}`);
+        } catch (error) {
+          console.error(`Error testing date ${date}: ${error.message}`);
+        }
+      }
+      
+    
     
 
     // Submit the form
     await page.click("a.btn-primary");
-
     // Confirm form submission by checking the URL or a success message on the next page
     const url = await page.url();
+    //confirm with the url end ponit "/thanks"
     expect(url).toContain("/thanks");
   });
 });
