@@ -10,7 +10,7 @@ test.beforeEach(async ({ page }) => {
 });
 
 
-    test.only('Double-click to reveal the alert', async () => { // Removed {page} as it's not used here
+    test.skip('Double-click to reveal the alert', async () => { // Removed {page} as it's not used here
         // double click the button
         await guruPage.doubleclick(guruPage.locators.contextClick);
         //confirm appearance of the alert

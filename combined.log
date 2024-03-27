@@ -1,0 +1,565 @@
+2024-03-27T01:33:04.770Z info: Navigating to the Telerik Drag and Drop Demo page
+2024-03-27T01:33:14.498Z info: Clicked the cookie acceptance button
+2024-03-27T01:33:15.061Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T01:33:15.177Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T01:33:15.371Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T01:33:15.476Z info: Performing drag and drop from the source to the first target
+2024-03-27T01:33:15.620Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T01:33:15.808Z info: Verifying text presence in the first target
+2024-03-27T01:33:15.815Z info: Performing drag and drop from the source to the second target
+2024-03-27T01:33:15.992Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T01:33:16.393Z info: Verifying text presence in the second target
+2024-03-27T01:37:22.039Z info: Navigating to the Telerik Drag and Drop Demo page
+2024-03-27T01:37:31.534Z info: Clicked the cookie acceptance button
+2024-03-27T01:37:32.237Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T01:37:32.379Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T01:37:32.579Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T01:37:32.678Z info: Performing drag and drop from the source to the first target
+2024-03-27T01:37:32.811Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T01:37:33.006Z info: Verifying text presence in the first target
+2024-03-27T01:37:33.013Z info: Performing drag and drop from the source to the second target
+2024-03-27T01:37:33.175Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T01:37:33.524Z info: Verifying text presence in the second target
+2024-03-27T15:21:19.799Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:21:19.922Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:21:20.049Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:28:09.569Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:28:09.668Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:28:09.753Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:28:10.053Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/afterDragToBlueBox.png
+2024-03-27T15:29:00.752Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:29:00.867Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:29:00.968Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:29:52.256Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:29:52.349Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:29:52.431Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:35:01.061Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:35:01.158Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:35:01.261Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:36:55.790Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:36:55.891Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:36:56.076Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:46:40.165Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:46:40.266Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:46:40.413Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:47:19.532Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:47:19.629Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:47:19.713Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:48:05.465Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:48:05.565Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:48:05.763Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:48:18.551Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:48:18.647Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:48:18.748Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:49:24.164Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:49:24.314Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:49:24.413Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:53:12.813Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:53:12.918Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:53:13.014Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:55:24.845Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:55:24.945Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:55:25.044Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:57:29.612Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:57:29.710Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:57:29.810Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T15:59:23.492Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T15:59:23.594Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T15:59:23.693Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T16:08:06.253Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T16:08:06.349Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T16:08:06.449Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T16:10:10.506Z info: Navigating to the Telerik Drag and Drop Demo page
+2024-03-27T16:10:24.646Z info: Clicked the cookie acceptance button
+2024-03-27T16:10:27.046Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T16:10:31.252Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T16:10:32.915Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T16:10:34.364Z info: Performing drag and drop from the source to the first target
+2024-03-27T16:10:36.623Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T16:10:37.959Z info: Verifying text presence in the first target
+2024-03-27T16:10:38.561Z info: Performing drag and drop from the source to the second target
+2024-03-27T16:10:40.731Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T16:10:41.800Z info: Verifying text presence in the second target
+2024-03-27T16:38:50.782Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:39:44.047Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:40:40.360Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:41:22.070Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:43:16.211Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:45:15.712Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:48:51.731Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:50:07.086Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:52:44.601Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:53:53.954Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:56:03.300Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T16:56:38.018Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:02:14.118Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:02:14.213Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:02:14.431Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:02:14.652Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:02:55.648Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:02:55.780Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:02:55.877Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:02:56.166Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:03:04.964Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:03:05.218Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:03:05.312Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:04:27.218Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:04:27.319Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:04:27.406Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:04:27.423Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:04:27.505Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:04:27.703Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:04:27.924Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:08:19.879Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:08:20.087Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:08:20.185Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:08:20.591Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:08:20.925Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:08:21.036Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:08:21.303Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:08:23.317Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:08:23.539Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:08:23.737Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:08:24.827Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:08:25.023Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:08:25.219Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:08:25.538Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:08:25.840Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:08:25.987Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:08:26.118Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:08:26.348Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:08:26.444Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:08:26.523Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:08:26.723Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:11:31.370Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:11:31.518Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:11:31.588Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:11:31.638Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:11:31.702Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:11:31.841Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:11:31.921Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:11:33.327Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:11:33.908Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:11:34.228Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:11:34.467Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:11:34.560Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:11:34.803Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:11:35.169Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:11:37.566Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:11:37.566Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:11:37.878Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:11:37.923Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:11:38.007Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:11:38.033Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:11:38.243Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:14:01.955Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:14:02.068Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:14:02.171Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:14:02.371Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:14:02.520Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:14:02.627Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:14:02.834Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:14:03.502Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:14:03.681Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:14:04.108Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:14:06.742Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:14:06.938Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:14:07.134Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:14:07.425Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:14:09.919Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:14:10.020Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:14:10.105Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:14:10.129Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:14:10.226Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:14:10.321Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:14:10.555Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:15:02.370Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:15:02.486Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:15:02.583Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:15:04.424Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:15:04.534Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:15:04.734Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:15:04.864Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:15:04.869Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:15:04.990Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:15:05.007Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:15:05.146Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:15:05.383Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:15:05.412Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:15:05.722Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:15:06.458Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:15:06.651Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:15:06.820Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:15:22.840Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:15:22.923Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:15:23.005Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:15:23.286Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:16:07.289Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:16:07.553Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:16:07.648Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:16:09.357Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:16:09.469Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:16:09.588Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:16:09.786Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:16:12.640Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:16:12.736Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:16:12.835Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:16:12.836Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T17:16:13.134Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T17:16:13.134Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:16:13.234Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T17:16:13.291Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:16:13.425Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:16:13.427Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T17:16:13.502Z info: Performing drag and drop from the source to the first target
+2024-03-27T17:16:13.542Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T17:16:13.690Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T17:16:13.747Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T17:16:13.877Z info: Performing drag and drop from the source to the first target
+2024-03-27T17:16:13.934Z info: Verifying text presence in the first target
+2024-03-27T17:16:14.201Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T17:16:14.379Z info: Verifying text presence in the first target
+2024-03-27T17:16:14.410Z info: Performing drag and drop from the source to the second target
+2024-03-27T17:16:14.555Z info: Performing drag and drop from the source to the second target
+2024-03-27T17:16:14.604Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T17:16:14.665Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T17:16:14.697Z info: Verifying text presence in the second target
+2024-03-27T17:16:14.812Z info: Verifying text presence in the second target
+2024-03-27T17:16:15.043Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:16:15.147Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:16:15.239Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:16:15.438Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:16:15.646Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:16:15.750Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:16:15.908Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:16:18.228Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:16:18.418Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:16:18.604Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:16:18.605Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T17:16:18.784Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T17:16:18.966Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T17:16:19.132Z info: Performing drag and drop from the source to the first target
+2024-03-27T17:16:19.205Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T17:16:19.425Z info: Verifying text presence in the first target
+2024-03-27T17:16:19.430Z info: Performing drag and drop from the source to the second target
+2024-03-27T17:16:19.501Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T17:16:19.559Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:16:19.706Z info: Verifying text presence in the second target
+2024-03-27T17:16:19.755Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:16:19.951Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:16:24.642Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:16:24.822Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:16:25.036Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:16:25.307Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:17:55.054Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:17:55.170Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:17:55.270Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:17:55.335Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:17:55.470Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:17:55.527Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:17:55.602Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:17:55.603Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T17:17:55.716Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T17:17:55.817Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T17:17:56.166Z info: Performing drag and drop from the source to the first target
+2024-03-27T17:17:56.297Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T17:17:56.637Z info: Verifying text presence in the first target
+2024-03-27T17:17:56.662Z info: Performing drag and drop from the source to the second target
+2024-03-27T17:17:56.799Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T17:17:56.938Z info: Verifying text presence in the second target
+2024-03-27T17:17:59.596Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:17:59.693Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:17:59.806Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:17:59.807Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T17:17:59.877Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:17:59.906Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T17:17:59.976Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:18:00.006Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T17:18:00.075Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:18:00.104Z info: Performing drag and drop from the source to the first target
+2024-03-27T17:18:00.239Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T17:18:00.304Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:18:00.325Z info: Verifying text presence in the first target
+2024-03-27T17:18:00.339Z info: Performing drag and drop from the source to the second target
+2024-03-27T17:18:00.436Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T17:18:00.516Z info: Verifying text presence in the second target
+2024-03-27T17:18:01.554Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:18:01.667Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:18:01.919Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:18:05.393Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:18:05.608Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:18:05.820Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:18:05.821Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T17:18:05.896Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:18:06.039Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T17:18:06.123Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:18:06.252Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T17:18:06.318Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:18:06.451Z info: Performing drag and drop from the source to the first target
+2024-03-27T17:18:06.541Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T17:18:06.779Z info: Verifying text presence in the first target
+2024-03-27T17:18:06.785Z info: Performing drag and drop from the source to the second target
+2024-03-27T17:18:06.867Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T17:18:07.056Z info: Verifying text presence in the second target
+2024-03-27T17:18:09.479Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:18:09.671Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:18:09.855Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:18:10.158Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:18:12.939Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:18:13.022Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:18:13.101Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:32:07.737Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:32:08.078Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:32:08.372Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:32:08.669Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:32:09.002Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:32:09.341Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:32:09.469Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:32:09.497Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:32:09.657Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:36:41.005Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:36:41.238Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:36:41.335Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:36:41.397Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:36:41.607Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:36:41.650Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:36:41.807Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T17:36:41.819Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:36:41.909Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T17:36:41.989Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T17:36:42.093Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T17:36:42.205Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:35:54.582Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:35:54.687Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:35:54.806Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:35:55.103Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:35:55.421Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:35:55.536Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:35:55.654Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:35:57.078Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:35:57.273Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:35:57.472Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:35:57.843Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:35:58.037Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:35:58.235Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:35:58.272Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:35:58.379Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:35:58.497Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:35:58.573Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:35:59.525Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:35:59.623Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:35:59.702Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:35:59.976Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:37:30.413Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:37:30.637Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:37:30.835Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:37:31.123Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:37:31.497Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:37:31.733Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:37:31.940Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:37:32.325Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:37:32.518Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:37:32.615Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:37:35.276Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:37:35.385Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:37:35.619Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:37:35.820Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:37:36.006Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:37:36.092Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:37:36.171Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:37:37.723Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:37:37.807Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:37:37.890Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:37:38.155Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:41:56.539Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:41:56.655Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:41:56.768Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:41:57.274Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:41:57.388Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:41:57.753Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:41:58.236Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:41:59.509Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:41:59.736Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:41:59.924Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:42:00.364Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:42:00.726Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:42:00.934Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:42:01.443Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:42:02.328Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:42:02.458Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:42:02.540Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:42:02.804Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:42:04.225Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:42:04.311Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:42:04.405Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:44:10.874Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:44:10.989Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:44:11.116Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:44:11.132Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T19:44:11.247Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:44:11.391Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:44:11.503Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T19:44:11.873Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:44:11.947Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:44:12.099Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T19:44:12.304Z info: Performing drag and drop from the source to the first target
+2024-03-27T19:44:12.472Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:44:12.487Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T19:44:12.590Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:44:12.776Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:44:13.627Z info: Verifying text presence in the first target
+2024-03-27T19:44:13.958Z info: Performing drag and drop from the source to the second target
+2024-03-27T19:44:14.106Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T19:44:14.260Z info: Verifying text presence in the second target
+2024-03-27T19:44:18.360Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:44:18.459Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:44:18.540Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:44:18.855Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:44:19.211Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:44:19.314Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:44:19.380Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:44:19.410Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:44:19.411Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T19:44:19.484Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:44:19.576Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:44:19.590Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T19:44:19.715Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T19:44:19.827Z info: Performing drag and drop from the source to the first target
+2024-03-27T19:44:19.991Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T19:44:20.104Z info: Verifying text presence in the first target
+2024-03-27T19:44:20.120Z info: Performing drag and drop from the source to the second target
+2024-03-27T19:44:20.221Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T19:44:20.333Z info: Verifying text presence in the second target
+2024-03-27T19:44:24.865Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:44:25.070Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:44:25.270Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:44:25.399Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:44:25.625Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:44:25.848Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:44:25.854Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:44:25.855Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T19:44:26.074Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:44:26.102Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T19:44:26.300Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:44:26.302Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T19:44:26.519Z info: Performing drag and drop from the source to the first target
+2024-03-27T19:44:26.606Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T19:44:26.837Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:44:26.837Z info: Verifying text presence in the first target
+2024-03-27T19:44:26.843Z info: Performing drag and drop from the source to the second target
+2024-03-27T19:44:26.940Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T19:44:27.183Z info: Verifying text presence in the second target
+2024-03-27T19:48:40.262Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:48:40.372Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:48:40.475Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:48:40.976Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:48:41.088Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:48:41.226Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:48:41.244Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:48:41.345Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:48:41.378Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:48:41.379Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T19:48:41.489Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T19:48:41.592Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T19:48:41.688Z info: Performing drag and drop from the source to the first target
+2024-03-27T19:48:41.813Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T19:48:41.832Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:48:42.058Z info: Verifying text presence in the first target
+2024-03-27T19:48:42.066Z info: Performing drag and drop from the source to the second target
+2024-03-27T19:48:42.159Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T19:48:42.283Z info: Verifying text presence in the second target
+2024-03-27T19:48:45.517Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:48:45.626Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:48:45.730Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:48:48.319Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:48:48.407Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:48:48.458Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:48:48.566Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:48:48.567Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T19:48:48.572Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:48:48.666Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T19:48:48.668Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:48:48.786Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T19:48:48.921Z info: Performing drag and drop from the source to the first target
+2024-03-27T19:48:49.066Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T19:48:49.099Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T19:48:49.175Z info: Verifying text presence in the first target
+2024-03-27T19:48:49.191Z info: Performing drag and drop from the source to the second target
+2024-03-27T19:48:49.323Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T19:48:49.428Z info: Verifying text presence in the second target
+2024-03-27T19:48:51.507Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:48:51.697Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:48:51.897Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:48:51.898Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T19:48:52.112Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T19:48:52.276Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:48:52.312Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T19:48:52.498Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:48:52.514Z info: Performing drag and drop from the source to the first target
+2024-03-27T19:48:52.599Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T19:48:52.713Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:48:52.830Z info: Verifying text presence in the first target
+2024-03-27T19:48:52.836Z info: Performing drag and drop from the source to the second target
+2024-03-27T19:48:52.913Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T19:48:53.199Z info: Verifying text presence in the second target
+2024-03-27T19:48:53.237Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T19:48:53.480Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T19:48:53.679Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T19:48:54.134Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T20:13:43.744Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T20:13:43.866Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T20:13:43.957Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T20:13:43.973Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T20:13:44.059Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T20:13:44.092Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T20:13:44.211Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T20:13:44.213Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T20:13:44.325Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T20:13:44.455Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T20:13:44.461Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T20:13:44.857Z info: Performing drag and drop from the source to the first target
+2024-03-27T20:13:44.951Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T20:13:45.016Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T20:13:45.347Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T20:13:45.764Z info: Verifying text presence in the first target
+2024-03-27T20:13:45.772Z info: Performing drag and drop from the source to the second target
+2024-03-27T20:13:45.893Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T20:13:46.042Z info: Verifying text presence in the second target
+2024-03-27T20:13:51.902Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T20:13:52.060Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T20:13:52.224Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T20:13:52.305Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T20:13:52.500Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T20:13:52.752Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png
+2024-03-27T20:13:52.753Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T20:13:52.853Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T20:13:53.081Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T20:13:53.182Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T20:13:53.183Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T20:13:53.297Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T20:13:53.405Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T20:13:53.536Z info: Performing drag and drop from the source to the first target
+2024-03-27T20:13:53.662Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T20:13:53.790Z info: Verifying text presence in the first target
+2024-03-27T20:13:53.823Z info: Performing drag and drop from the source to the second target
+2024-03-27T20:13:53.953Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T20:13:54.226Z info: Verifying text presence in the second target
+2024-03-27T20:13:56.752Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T20:13:56.816Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T20:13:56.967Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T20:13:57.028Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T20:13:57.179Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T20:13:57.180Z info: Checking the CSS of the source element and taking a screenshot
+2024-03-27T20:13:57.226Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T20:13:57.373Z info: Checking the CSS of the first target element and taking a screenshot
+2024-03-27T20:13:57.557Z info: Checking the CSS of the second target element and taking a screenshot
+2024-03-27T20:13:57.741Z info: Performing drag and drop from the source to the first target
+2024-03-27T20:13:57.828Z info: Taking a screenshot of the entire page after the first drag and drop
+2024-03-27T20:13:58.045Z info: Verifying text presence in the first target
+2024-03-27T20:13:58.056Z info: Performing drag and drop from the source to the second target
+2024-03-27T20:13:58.144Z info: Taking a screenshot of the entire page after the second drag and drop
+2024-03-27T20:13:58.271Z info: Screenshot taken for draggable: ./Screenshots/DragDrop/source.png
+2024-03-27T20:13:58.366Z info: Verifying text presence in the second target
+2024-03-27T20:13:58.495Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/target1.png
+2024-03-27T20:13:58.677Z info: Screenshot taken for orgBox: ./Screenshots/DragDrop/target2.png
+2024-03-27T20:13:59.198Z info: Screenshot taken for blueBox: ./Screenshots/DragDrop/wrongDrag.png

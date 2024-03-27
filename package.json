@@ -9,9 +9,11 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.42.1",
-    "@types/node": "^20.11.28"
+    "@types/node": "^20.11.28",
+    "allure-playwright": "^2.15.0"
   },
   "dependencies": {
-    "chrome-aws-lambda": "^10.1.0"
+    "chrome-aws-lambda": "^10.1.0",
+    "winston": "^3.13.0"
   }
 }
