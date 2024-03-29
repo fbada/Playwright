@@ -10,7 +10,7 @@ This repository serves as a learning path for mastering API and UI automation te
    - Writing API tests using JavaScript and libraries like Axios or SuperTest.
    - Validating API responses and handling different HTTP status codes.
   
-2. **BDD with Cucumber**
+2. **BDD with Cucumber-js**
    - Introduction to Behavior-Driven Development (BDD).
    - Writing feature files with Gherkin syntax to define test scenarios.
    - Implementing step definitions in JavaScript to execute test steps.
