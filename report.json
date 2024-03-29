@@ -1,0 +1,93 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "demo-applicaton-on-heroku;successful-logout",
+        "keyword": "Scenario",
+        "line": 32,
+        "name": "Successful logout",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 440914088
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 33,
+            "name": "I have logged in successfully to the demo application",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4204302791
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 34,
+            "name": "I click on the logout button",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:51"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 620710559
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 35,
+            "name": "I should be redirected to the login page",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:57"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 16956190
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1478890
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          },
+          {
+            "name": "@wip",
+            "line": 31
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "demo-applicaton-on-heroku",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "Demo Applicaton on Heroku",
+    "tags": [
+      {
+        "name": "@smoke",
+        "line": 1
+      }
+    ],
+    "uri": "features/login.feature"
+  }
+]

@@ -1,4 +1,4 @@
-import { allure } from "allure-playwright";
+const{expect} = require('@playwright/test')
 class HRMloginPage{
 
     constructor(page){
@@ -20,7 +20,14 @@ class HRMloginPage{
     async enterCreds(username, password){
         await this.usernameInput.fill(username);
         await this.passwordInput.fill(password);
-        await this.submitButton.click();
+    }
+
+    async clickSubmit(){
+    await this.submitButton.click();
+    }
+
+    async checkDashboardElement(){
+        await expect(this.confirmElem).toBeVisible();
     }
 }
-module.exports = HRMloginPage;
+module.exports = {HRMloginPage};
