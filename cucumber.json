@@ -5,8 +5,6 @@
       },
       "paths": ["./features/*.feature"],
       "require": ["features/stepDefinitions/*.js", "./pages/*.js", "features/Hooks/*.js"],
-    //   "cucumber": "cucumber.js ../../features/*.feature -r ../../Steps/*.js",
-    //  "publishQuiet": true,
       "dryRun": false
     }
   }
