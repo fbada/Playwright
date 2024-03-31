@@ -1,0 +1,11 @@
+{
+    "firstname": "Fenny",
+    "lastname": "Benny",
+    "totalprice": 1000,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2024-03-30",
+        "checkout": "2024-04-01"
+    },
+    "additionalneeds": "super bowls for super treatos !!"
+}

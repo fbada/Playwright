@@ -22,9 +22,4 @@ After(async function () {
     browser.close();
 });
 
-After(async function (scenario) {
-    if (scenario.result.status === Status.FAILED) {
-      var buffer = await global.page.screenshot({ path: `reports/${scenario.pickle.name}.png`, fullPage: true })
-      this.attach(buffer, 'image/png');
-    }
-});
+

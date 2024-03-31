@@ -4,6 +4,310 @@
     "elements": [
       {
         "description": "",
+        "id": "demo-applicaton-on-heroku;verify-login-on-demo-application",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Verify Login on Demo Application",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 421698301
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I am on the demo application",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1662504064
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "I enter the username \"tomsmith\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 84554424
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "I enter the password \"SuperSecretPassword!\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 55896760
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "I click on the login button",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 216062573
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "I verify the title of the page is \"The Internet\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 53938620
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "I should see the message \"Welcome to the Secure Area.\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3707646
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1448761
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "demo-applicaton-on-heroku;verify-invalid-password-login-on-demo-application",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "Verify invalid password login on Demo Application",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 375727387
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 17,
+            "name": "I am on the demo application",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1017261071
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 18,
+            "name": "I enter the username \"tomsmith\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47654555
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "I enter the password \"SuperSecretPassword\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 55746527
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "I click on the login button",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 177546930
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "I would see the message \"Your password is invalid!\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:39"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 46433058
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1210705
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "demo-applicaton-on-heroku;verify-invalid-username-login-on-demo-application",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "Verify invalid username login on Demo Application",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 378277141
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 25,
+            "name": "I am on the demo application",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1341024781
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 26,
+            "name": "I enter the username \"invalidUser\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 50355558
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "I enter the password \"SuperSecretPassword\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 53739722
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "I click on the login button",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 182048174
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 29,
+            "name": "I would see the message \"Your username is invalid!\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:39"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47462688
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 824128
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
         "id": "demo-applicaton-on-heroku;successful-logout",
         "keyword": "Scenario",
         "line": 32,
@@ -14,7 +318,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 440914088
+              "duration": 377828048
             }
           },
           {
@@ -27,7 +331,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4204302791
+              "duration": 1203541286
             }
           },
           {
@@ -40,7 +344,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 620710559
+              "duration": 189033715
             }
           },
           {
@@ -53,7 +357,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 16956190
+              "duration": 18324969
             }
           },
           {
@@ -61,7 +365,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1478890
+              "duration": 1257625
             }
           }
         ],
@@ -69,10 +373,491 @@
           {
             "name": "@smoke",
             "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "demo-applicaton-on-heroku;attempt-to-xss-the-login-form-with-various-scripts",
+        "keyword": "Scenario Outline",
+        "line": 48,
+        "name": "Attempt to XSS the login form with various scripts",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 377090803
+            }
           },
           {
-            "name": "@wip",
-            "line": 31
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 39,
+            "name": "I am on the demo application",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1364736409
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 40,
+            "name": "I enter the username \"<script>alert('XSS')</script>\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 51531992
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 41,
+            "name": "I enter the password \"password123\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 54834974
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 42,
+            "name": "I click on the login button",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 228072740
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 43,
+            "name": "I would see the message \"Your username is invalid!\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:39"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 45967011
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1397957
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "demo-applicaton-on-heroku;attempt-to-xss-the-login-form-with-various-scripts",
+        "keyword": "Scenario Outline",
+        "line": 49,
+        "name": "Attempt to XSS the login form with various scripts",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 379525390
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 39,
+            "name": "I am on the demo application",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1374343252
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 40,
+            "name": "I enter the username \"<img src=x onerror=alert('XSS')>\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49441383
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 41,
+            "name": "I enter the password \"password123\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 55367463
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 42,
+            "name": "I click on the login button",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 226614738
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 43,
+            "name": "I would see the message \"Your username is invalid!\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:39"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 46841324
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 885688
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "demo-applicaton-on-heroku;attempt-to-xss-the-login-form-with-various-scripts",
+        "keyword": "Scenario Outline",
+        "line": 50,
+        "name": "Attempt to XSS the login form with various scripts",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 376583581
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 39,
+            "name": "I am on the demo application",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1258590906
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 40,
+            "name": "I enter the username \"' onmouseover=alert('XSS')\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49096843
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 41,
+            "name": "I enter the password \"password123\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 53557366
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 42,
+            "name": "I click on the login button",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 181275374
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 43,
+            "name": "I would see the message \"Your username is invalid!\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:39"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47181972
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1229989
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "demo-applicaton-on-heroku;attempt-to-xss-the-login-form-with-various-scripts",
+        "keyword": "Scenario Outline",
+        "line": 51,
+        "name": "Attempt to XSS the login form with various scripts",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 381585574
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 39,
+            "name": "I am on the demo application",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1243254068
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 40,
+            "name": "I enter the username \"<div onclick=alert('XSS')>Click me!</div>\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49187123
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 41,
+            "name": "I enter the password \"password123\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 52955213
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 42,
+            "name": "I click on the login button",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 186519585
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 43,
+            "name": "I would see the message \"Your username is invalid!\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:39"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 46686564
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 942740
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "demo-applicaton-on-heroku;attempt-to-xss-the-login-form-with-various-scripts",
+        "keyword": "Scenario Outline",
+        "line": 52,
+        "name": "Attempt to XSS the login form with various scripts",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 377377499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 39,
+            "name": "I am on the demo application",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1375467091
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 40,
+            "name": "I enter the username \"<iframe src=javascript:alert('XSS')>\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 48125330
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 41,
+            "name": "I enter the password \"password123\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 52423594
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 42,
+            "name": "I click on the login button",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 218709965
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 43,
+            "name": "I would see the message \"Your username is invalid!\"",
+            "match": {
+              "location": "features/step_definitions/lognSteps.js:39"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 46232117
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 819021
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
           }
         ],
         "type": "scenario"

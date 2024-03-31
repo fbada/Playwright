@@ -28,7 +28,7 @@ Feature: Demo Applicaton on Heroku
         When  I click on the login button
         Then I would see the message "Your username is invalid!"
 
-@wip
+
     Scenario: Successful logout
         Given I have logged in successfully to the demo application
         When I click on the logout button
